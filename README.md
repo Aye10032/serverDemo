@@ -59,12 +59,12 @@
 首先进入目录：
 
 ```bash
-
+cd server/servertest/
 ```
 
 接下来启动服务器：
 
-```
+```bash
 java TCPThreadServer
 ```
 
